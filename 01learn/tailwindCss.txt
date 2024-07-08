@@ -1,0 +1,12 @@
+⁡⁣⁣⁢​‌‌‍https://www.geeksforgeeks.org/tailwind-css/​⁡
+
+sm 640px  ,md 768px  ,lg 1024px  ,xl 1280px  ,2xl 1536px
+
+
+padding horizontal -> px-23px
+margin horizontal -> mx-auto  //auto for center
+width-> w-[32px] height-> h-[65px]
+
+"display-block,flex-> ⁡⁢⁢⁢className="inline-block text-green text-5xl font-bold⁡ w-32 h-12 bg-green-500 rounded-lg"
+
+class="flex flex-row"

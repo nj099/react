@@ -1,0 +1,37 @@
+# For creating react app
+***IN terminal type***
+```
+⁡⁢⁣⁣𝗻𝗽𝘅 𝗰𝗿𝗲𝗮𝘁𝗲-𝗿𝗲𝗮𝗰𝘁-𝗮𝗽𝗽 𝗺𝘆-𝗮𝗽𝗽-𝗻𝗮𝗺𝗲⁡
+```
+** --- it will create a folder in which your react and node prj insilised**
+# creating react app folders
+
+   ⁡⁢⁣⁣ ⁡⁣⁣⁢𝗻𝗽𝘅 𝗰𝗿𝗲𝗮𝘁𝗲-𝗿𝗲𝗮𝗰𝘁-𝗮𝗽𝗽 .⁡⁡ 
+    ⁡⁢⁣⁣𝗻𝗽𝘅 𝗰𝗿𝗲𝗮𝘁𝗲-𝗿𝗲𝗮𝗰𝘁-𝗮𝗽𝗽 𝗳𝗼𝗹𝗱𝗲𝗿_𝗻𝗮𝗺𝗲⁡
+
+# i deleted node modules so in any proj of react 
+***IN terminal type*** `⁡⁢⁣⁢​‌‍‌‍npm install​⁡`
+
+
+​‌‌‍⁡⁣⁣⁢-͟-͟𝘄͟𝗮͟𝘁͟𝗰͟𝗵⁡​
+we dont have to use nodemon now we have built in nodejs added after 18 version
+
+⁡⁢⁣⁣𝗻𝗼𝗱𝗲 --𝘄𝗮𝘁𝗰𝗵 𝗳𝗶𝗹𝗲_𝗻𝗮𝗺𝗲.𝗷𝘀⁡        also we have--watch-path
+
+
+same
+in package.json   "dev2":"node --watch main.js"     npm run dev2
+
+
+its bulky so we use vite its fast
+
+⁡⁣⁣⁢𝗻͟𝗽͟𝗺 𝗰͟𝗿͟𝗲͟𝗮͟𝘁͟𝗲 𝘃͟𝗶͟𝘁͟𝗲͟@͟𝗹͟𝗮͟𝘁͟𝗲͟𝘀͟𝘁⁡
+
+𝗻𝗽𝗺 𝗶𝗻𝘀𝘁𝗮𝗹𝗹
+
+--->in vite we have to add jsx file in index.html <script type="module" src="/src/main.jsx"></script>
+
+//when making a function or component named it as ⁡⁢⁢⁣𝗨𝗽𝗽𝗲𝗿𝗰𝗮𝘀𝗲⁡
+
+
+
