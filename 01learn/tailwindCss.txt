@@ -1,5 +1,28 @@
 ⁡⁣⁣⁢​‌‌‍https://www.geeksforgeeks.org/tailwind-css/​⁡
 
+
+
+
+--->npm install -D tailwindcss postcss autoprefixer
+--->npx tailwindcss init -p
+
+--->in tailwind.config.js
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [ "./index.html",
+  "./src/**/*.{js,ts,jsx,tsx}",],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+
+--->in src/input.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 sm 640px  ,md 768px  ,lg 1024px  ,xl 1280px  ,2xl 1536px
 
 
