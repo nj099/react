@@ -1,12 +1,14 @@
-import './App.css'
+import { useState } from 'react'
 
 function App() {
-
+  const [color,setColor]=useState("olive")
 
   return (
-    <>
-      <h1 className="bg-green-400 text-black p-0.5 rounded-lg mb-1">tailwind css</h1>
-    </>
+
+      <div className='w-full h-screen' style={{backgroundColor:color}}>
+      <div className=' fixed flex flex-wrap justify-center bottob-12   '></div>
+      </div>
+
   )
 }
 
